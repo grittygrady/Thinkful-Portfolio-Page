@@ -73,20 +73,7 @@ footer > section > p {
 }
 
 /* USES A BACKGROUND IMAGE IN PLACE OF A LINE */
-hr {
-  width: 50%;
-  height: 20px;
-  border: none;
-  border-radius: 25%;
-  margin: auto;
-  margin-top: 5%;
-  margin-bottom: 5%;
-  /* SETS THE IMAGE TO SCALE TO THE CONTAINER */
-  background-size: contain;
-  background-position: center;
-  background-color: transparent;
-  background-image: url("images/hr-wave.png");
-}
+
 
 /* CLASS SELECTORS */
 
