@@ -68,12 +68,21 @@ footer > section > p {
     color: #dae1e7;
     margin: 0;
     padding-bottom: 15px;
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+}
+
+hr {
+    background-image: url("/images/hr-wave.png");
+    border: none;
+    width: 386px;
+    height: 25px;
 }
 
 /* CLASS SELECTORS */
 
 .wrapper {
-	width: 580px;
+	width: 750px;
 	margin: auto;	
 }
 
